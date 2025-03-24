@@ -1,0 +1,90 @@
+```plaintext
+Bakery:
+- Bread
+
+Beverages:
+- Coffee
+- Orange Juice
+- Soda
+- Tea
+
+Canned & Packaged Goods:
+- Cereal
+- Granola Bars
+- Jam
+- Pasta
+- Rice
+- Sausages
+- Oatmeal
+
+Cheese & Dairy Products:
+- Cheese
+- Eggs
+- Milk
+- Yogurt
+- Butter
+
+Confectionery & Snacks:
+- Chocolate
+- Chips
+- Ice Cream
+- Peanut Butter
+
+Fruits:
+- Apples
+- Bananas
+- Strawberries
+
+Grains & Pasta:
+- Flour
+- Oatmeal
+- Pasta
+
+Meats & Seafood:
+- Chicken Breast
+- Ground Beef
+- Salmon
+- Shrimp
+- Sausages
+
+Nuts & Seeds:
+- Almonds
+
+Produce:
+- Bell Peppers
+- Broccoli
+- Carrots
+- Garlic
+- Lettuce
+- Mushrooms
+- Onions
+- Potatoes
+- Spinach
+- Tomatoes
+
+Spices, Sauces & Cooking Oils:
+- Olive Oil
+- Honey
+- Salt (Sugar)
+- Sugar
+
+Vegetables:
+- Bell Peppers
+- Broccoli
+- Carrots
+- Garlic
+- Lettuce
+- Mushrooms
+- Onions
+- Potatoes
+- Spinach
+- Tomatoes
+
+Household Items:
+- Dish Soap
+- Laundry Detergent
+- Paper Towels
+- Shampoo
+- Toilet Paper
+- Toothpaste
+```
